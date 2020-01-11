@@ -1,0 +1,8 @@
+.card-list {
+    width :85vw;
+    margin: 0 auto;
+    display: grid;
+    /* below is setting grid to be in 4 columns, each of them equal fractions. */
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-gap: 20px;
+}
