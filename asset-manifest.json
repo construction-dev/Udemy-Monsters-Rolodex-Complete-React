@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Udemy-Monsters-Rolodex-Complete-React/static/css/main.d91cdbf2.chunk.css",
+    "main.js": "/Udemy-Monsters-Rolodex-Complete-React/static/js/main.be5a4a77.chunk.js",
+    "main.js.map": "/Udemy-Monsters-Rolodex-Complete-React/static/js/main.be5a4a77.chunk.js.map",
+    "runtime-main.js": "/Udemy-Monsters-Rolodex-Complete-React/static/js/runtime-main.53bf0c7e.js",
+    "runtime-main.js.map": "/Udemy-Monsters-Rolodex-Complete-React/static/js/runtime-main.53bf0c7e.js.map",
+    "static/js/2.3a82cee6.chunk.js": "/Udemy-Monsters-Rolodex-Complete-React/static/js/2.3a82cee6.chunk.js",
+    "static/js/2.3a82cee6.chunk.js.map": "/Udemy-Monsters-Rolodex-Complete-React/static/js/2.3a82cee6.chunk.js.map",
+    "index.html": "/Udemy-Monsters-Rolodex-Complete-React/index.html",
+    "precache-manifest.1d25290c078a7a8b0ac4b91c69cd8642.js": "/Udemy-Monsters-Rolodex-Complete-React/precache-manifest.1d25290c078a7a8b0ac4b91c69cd8642.js",
+    "service-worker.js": "/Udemy-Monsters-Rolodex-Complete-React/service-worker.js",
+    "static/css/main.d91cdbf2.chunk.css.map": "/Udemy-Monsters-Rolodex-Complete-React/static/css/main.d91cdbf2.chunk.css.map",
+    "static/js/2.3a82cee6.chunk.js.LICENSE": "/Udemy-Monsters-Rolodex-Complete-React/static/js/2.3a82cee6.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.53bf0c7e.js",
+    "static/js/2.3a82cee6.chunk.js",
+    "static/css/main.d91cdbf2.chunk.css",
+    "static/js/main.be5a4a77.chunk.js"
+  ]
+}
